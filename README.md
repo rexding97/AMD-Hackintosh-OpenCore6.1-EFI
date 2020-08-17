@@ -1,4 +1,4 @@
-# AMD-Hackintosh-OpenCore-EFI
+# AMD-Hackintosh-OpenCore6.1-EFI
 Using for 3900x, 5700xt, x570
 
 
