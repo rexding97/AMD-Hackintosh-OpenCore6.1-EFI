@@ -10,3 +10,5 @@ Using for 3900x, 5700xt, x570
 | Memory | G.Skill Trident Z Royal 3600｜
 | Power Supply | Corsair RM750x |
 | Case | UMX1-plus |
+
+![image](https://github.com/rexding97/AMD-Hackintosh-OpenCore-EFI/edit/master/IMAGE1.png)
