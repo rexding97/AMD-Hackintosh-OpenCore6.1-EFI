@@ -1,6 +1,8 @@
 # AMD-Hackintosh-OpenCore6.1-EFI
 Using for 3900x, 5700xt, x570
 
+### Follow Document
+OpenCore-Install-Guide: https://github.com/dortania/OpenCore-Install-Guide
 
 |  Type   | Using  |
 |  ----  | ----  |
