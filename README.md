@@ -14,5 +14,6 @@ OpenCore-Install-Guide: https://github.com/dortania/OpenCore-Install-Guide
 | Case | UMX1-plus |
 
 
-Specifically fake 5700xt as Pro w5700
+Specifically fake 5700xt as Pro w5700x
+
 ![image](https://github.com/rexding97/AMD-Hackintosh-OpenCore-EFI/blob/master/IMAGE1.png)
